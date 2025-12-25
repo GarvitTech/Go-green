@@ -1,11 +1,11 @@
-# 🌱 goGreen 
+# 🌱 Go-Green 
 
 With **goGreen**, you can make your profile look like you've been hard at work... even if you haven't. 
 NodeJs script to make commits to the past (or the future) to go green on GitHub.
 
 ## About
 
-**goGreen** helps you create commits on your GitHub profile for any date in the past. Whether you want to fill up your contribution graph or even make cool patterns and artwork.
+**Go-Green** helps you create commits on your GitHub profile for any date in the past. Whether you want to fill up your contribution graph or even make cool patterns and artwork.
 
 ## Getting Started
 
